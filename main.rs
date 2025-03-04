@@ -36,7 +36,7 @@ fn receive_request(mut stream: TcpStream) -> Result<String, std::io::Error> {
 
 fn main() {
     // Create a listener on port 8080
-    let listener = TcpListener::bind("172.21.123.251:8080").expect("Failed to create listener");
+    let listener = TcpListener::bind("<insert-IP-&-Port number-here>").expect("Failed to create listener");
     println!("Server listening on port 8080");
 
     // Accept incoming connections
