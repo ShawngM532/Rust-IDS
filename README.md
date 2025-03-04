@@ -3,7 +3,7 @@
 Aim: To Alert a specific System of incoming Attacks from external bad actors. We will be using the Rust Programming language 
 Analyze packets for malicious patterns using Rust’s speed and safety.
 
-Alert: dont forget to change the IP address used to bind to the listening port! it wont work otherwise!
+Alert: dont forget to change the IP address used to bind to the listening port! it wont work otherwise! lookout for <insert-IP-&-Port number-here>.
 
 ## How to Use
 
