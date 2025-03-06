@@ -27,4 +27,4 @@ cargo run
 
 For now you can test it with Nmap Scanning the specific IP address and port for your own Home Lab that you want to protect.
 
-ALERT: THIS IS VERY EARLY STAGE, I AIM TO MAKE IT MORE FUNCTIONAL AND CRASH PROOF
+ALERT: THIS IS VERY EARLY STAGE, I AIM TO ADD MORE FUNCTIONALITY TO THIS
