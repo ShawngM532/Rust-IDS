@@ -6,8 +6,8 @@ use tokio::signal;
 
 #[tokio::main]
 async fn main() {
-    let ip_address = "172.21.123.251";
-    let ports = 4000..8000; // Example range of ports
+    let ip_address = "<insert-IP-here>.";
+    let ports = <insert--Port-number-range-here>; // Example range of ports
 
     for port in ports {
         let addr = format!("{}:{}", ip_address, port);
