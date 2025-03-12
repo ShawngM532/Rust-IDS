@@ -16,8 +16,8 @@ use std::fs::OpenOptions;
  */
 #[tokio::main]
 async fn main() {
-    let ip_address = "172.21.123.251";
-    let ports = 1000..2000; // Example range of ports
+    let ip_address = "<insert-IP-number-here>";
+    let ports = 1000..2000; // --> give port range here I have set it as 1000 to 2000
     
 
     for port in ports {
