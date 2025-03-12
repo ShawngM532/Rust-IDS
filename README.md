@@ -27,4 +27,4 @@ cargo run
 
 For now you can test it with Nmap Scanning the specific IP address and port for your own Home Lab that you want to protect.
 
-## Current version scans for NMAP scans and logs everything into a log.txt file
+### Current version scans for NMAP scans and logs all the detected IP addresses and its ports into a log.txt file
